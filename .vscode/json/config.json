@@ -1,0 +1,9 @@
+{
+    "api": {
+        "url": "https://gorest.co.in/public/v2/users"
+    },
+    "save": {
+        "dir": "/Users/dradecic/Desktop/users_data",
+        "file": "users.json"
+    }
+}
